@@ -243,7 +243,7 @@
         <dependency>
             <groupId>io.jaegertracing</groupId>
             <artifactId>jaeger-thrift</artifactId>
-            <version>0.32.0</version>
+            <version>1.8.1</version>
         </dependency>
         <dependency>
             <groupId>io.opentracing.contrib</groupId>
